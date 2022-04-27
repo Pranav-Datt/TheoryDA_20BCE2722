@@ -1,4 +1,4 @@
-# 20BCE0340_TheoryDA
+# TheoryDA_20BCE2722
 This Repository contains the files for the Theory DA submission on Merkle Trees
 
 ## ** **1. Introduction to Merkle Trees** **
@@ -57,7 +57,7 @@ Another important property of Merkle trees is that it is binary in nature. This 
 
 Let’s try to understand it by taking an example.
 
-![Architecture](https://github.com/SoumodeepChakraborty/20BCE0340_TheoryDA/blob/main/Merkle.1jpg.png)
+![Architecture](https://github.com/Pranav-Datt/20BCE2722_TheoryDA/blob/main/Merkle.1jpg.png)
 
 Here, we see that four transactions have taken place in the block. These transactions are named X, Y, Z, and W. The transactions are then hashed and then stored in leaf nodes which we name as Hash X, Hash Y, Hash Z, and Hash W.
 
@@ -184,7 +184,7 @@ Step 13: Return tree.
 
 A Merkle tree is constructed by recursively hashing pairs of nodes until there is only one hash.
 
-![Image of Merkle Tree](https://github.com/SoumodeepChakraborty/20BCE0340_TheoryDA/blob/main/Merkle.jpg)
+![Image of Merkle Tree](https://github.com/Pranav-Datt/TheoryDA_20BCE2722/blob/main/20BCE2722_TheoryDA-main/Merkle.jpg)
 
 a, b, c, and d are some data elements (files, JSON, etc) and H is a hash function.
 
